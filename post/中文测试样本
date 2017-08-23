@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Lorem Ipsum - Hugo Ivy</title>
+    <meta property="og:title" content="Lorem Ipsum - Hugo Ivy">
+    
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+
+  </head>
+
+  
+  <body class="post">
+    <header class="masthead">
+      <h1><a href="/">第四十街</a></h1>
+
+<p class="tagline">Writing and Manuscripts.</p>
+
+      <nav class="menu">
+        <input id="menu-check" type="checkbox" />
+        <label id="menu-label" for="menu-check" class="unselectable">
+          <span class="icon close-icon">✕</span>
+          <span class="icon open-icon">☰</span>
+          <span class="text">Menu</span>
+        </label>
+        <ul>
+        
+        
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="/post/">中文</a></li>
+                
+        <li><a href="/note/">English</a></li>
+        
+        
+        </ul>
+      </nav>
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>中文题目</h1>
+
+<h3>
+  2017-08-22</h3>
+<hr>
+
+
+      </header>
+
+
+
+<p><strong>正文</strong> 放在 <em>此处。</em>. </p>
+
+<blockquote>
+<p>引文。</p>
+</blockquote>
+
+
+  <footer>
+  
+  
+
+  
+  <div class="copyright">&copy; <a href="https://40thdrive.com">40thDrive</a> 2017 | <a href="https://github.com/40thdrive">Github</a> </div>
+
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
